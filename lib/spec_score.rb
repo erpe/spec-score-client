@@ -1,0 +1,2 @@
+require 'score_formatter'
+
